@@ -5,7 +5,7 @@ Second - Enter IP and PORT from the output. <br>
 Third  - The script will open firefox to the given address and port. <br>
 Fourth - Start deeper scan (nmap, Nikto, gobuster) <br>
 
-Note: This script is still in progress and will update from time to time with more specific HTTP attacks
+Note: This script is still in prosses and will update from time to time with more specific HTTP attacks
 
 ## Getting Started
 
