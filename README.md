@@ -2,14 +2,14 @@
 
 First  - The script will scan all the IPs in the given subnet for open HTTP ports and show the Title for each one of them <br>
 Second - Enter IP and PORT from the output. <br>
-Third  - Open firefox to the given address and port. <br>
-Fourth  - Start deeper scan (nmap, Nikto, gobuster) <br>
+Third  - The script will open firefox to the given address and port. <br>
+Fourth - Start deeper scan (nmap, Nikto, gobuster) <br>
 
-Note: This script is still in progress, will update all the time with more spesific HTTP attacks
+Note: This script is still in progress, will update all the time with more specific HTTP attacks
 
 ## Getting Started
 
-'''./HTTPSubEnum.sh'''
+<code>./HTTPSubEnum.sh</code>
 
 ### Prerequisites
 
