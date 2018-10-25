@@ -1,4 +1,4 @@
-# Enumerate HTTP Title in Subnet and scan specific IP for Vulnerabilities 
+# Enumerate given Subnet for open HTTP ports, and run deep scan on particular IP (Fast nmap scan)
 
 First  - The script will scan all the IPs in the given subnet for open HTTP ports and show the Title for each one of them.
 Second - Enter IP and PORT from the output.
